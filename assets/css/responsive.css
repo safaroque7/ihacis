@@ -1,8 +1,7 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 767px) {
 
-    .text-column-2 {
+    .important-links-menu {
         column-count: 1;
-        column-gap: 0;
     }
 }
 
